@@ -1,0 +1,19 @@
+Metadata-Version: 2.2
+Name: src
+Version: 0.0.1
+Summary: Movie Recommendation System
+Author: ROHAN KUMAR GUPTA
+Author-email: rohan.gupta2059@gmail.com
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# Movie-Recommendation-System
+ A Movie Recommendation System using TMDB dataset
