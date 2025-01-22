@@ -62,12 +62,14 @@ The project is developed using Python, with key technologies including **FastAPI
    ```bash
    pip install -r requirements.txt
    ```
-2. Run the API server:
+2. Run all the cells of .ipynb file: You will get two .pkl file in srtificats folder
+   
+3. Run the API server:
    ```bash
    uvicorn movie_recommendation_api:app --host 0.0.0.0 --port 8000 --reload
    ```
-3. Access the API documentation at `http://127.0.0.1:8000/docs`.
-4. Send a POST request to `/recommend` with a movie title to get recommendations.
+4. Access the API documentation at `http://127.0.0.1:8000/docs`.
+5. Send a POST request to `/recommend` with a movie title to get recommendations.
 
 Example request using `curl`:
 ```bash
