@@ -1,17 +1,5 @@
 # MOVIE RECOMMENDATION SYSTEM API
 
-*COMPANY* : CODTECH IT SOLUTIONS
-
-*NAME* : ROHAN KUMAR GUPTA
-
-*INTERN ID* : CT4MKNM
-
-*DOMAIN* : BACKEND WEB DEVELOPMENT
-
-*DURATION* : 4 WEEKS
-
-*MENTOR* : NEELA SANTOSH
-
 ## DESCRIPTION OF TASK  IN 500 WORDS
 
 The Movie Recommendation System API is a project designed to provide users with personalized movie recommendations based on machine learning techniques. The goal of this project is to create an efficient, scalable, and user-friendly API that can be integrated into various applications such as web and mobile platforms to enhance the user experience in discovering new movies. The recommendation system uses content-based filtering to suggest movies that are similar to the ones users prefer.
